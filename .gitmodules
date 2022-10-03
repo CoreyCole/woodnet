@@ -4,3 +4,6 @@
 [submodule "ext/lambda-py"]
 	path = ext/lambda-py
 	url = git@github.com:vvmirkovic/woodnet-server.git
+[submodule "ext/sam_rust_example"]
+	path = ext/sam_rust_example
+	url = git@github.com:CoreyCole/sam_rust_woodnet.git
