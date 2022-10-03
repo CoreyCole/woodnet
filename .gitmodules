@@ -1,0 +1,3 @@
+[submodule "ext/frontend"]
+	path = ext/frontend
+	url = git@github.com:Brennan-Flood/woodnet-frontend.git
