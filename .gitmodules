@@ -1,3 +1,6 @@
 [submodule "ext/frontend"]
 	path = ext/frontend
 	url = git@github.com:Brennan-Flood/woodnet-frontend.git
+[submodule "ext/lambda-py"]
+	path = ext/lambda-py
+	url = git@github.com:vvmirkovic/woodnet-server.git
